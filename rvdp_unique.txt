@@ -527,6 +527,7 @@ pethuraj.com
 pganalyze.com
 phys.org
 platform161.com
+platform.sh
 play.google.com
 policies.pixiv.net
 portswigger.net
